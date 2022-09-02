@@ -60,7 +60,7 @@ or action is turned into a link:
 
 ![ghaaa screenshot](/assets/ghaa.png)
 
-Now I will reach out to gituhub and ask for it to
+Now I will reach out to github and ask for it to
 be available in github. After using it, it's really
 useful! And I'm sure, many have already asked for it!
 
